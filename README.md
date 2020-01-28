@@ -51,17 +51,27 @@ SAMPLES of VIDEO CLIPS
 ----------------------
 
 - Small size (720x720)
+    - [Scene1A_14.mp4](videos/small/Scene1A_14.mp4)
+    - [Scene1B_84.mp4](videos/small/Scene1B_84.mp4)
+    - [Scene2_22.mp4](videos/small/Scene2_22.mp4)
+    - [Scene3A_55.mp4](videos/small/Scene3A_55.mp4)
+    - [Scene4A_4.mp4](videos/small/Scene4A_4.mp4)
+    - [Scene4B_17.mp4](videos/small/Scene4B_17.mp4)
+    - [Scene5A_48.mp4](videos/small/Scene5A_48.mp4)
+    - [Scene5B_20.mp4](videos/small/Scene5B_20.mp4)
+    - [Scene6A_47.mp4](videos/small/Scene6A_47.mp4)
+    - [Scene6B_59.mp4](videos/small/Scene6B_59.mp4)
 
-![Scene1A_14.mp4](videos/small/Scene1A_14.mp4)
-![Scene1B_84.mp4](videos/small/Scene1B_84.mp4)
-![Scene2_22.mp4](videos/small/Scene2_22.mp4)
-![Scene3A_55.mp4](videos/small/Scene3A_55.mp4)
-![Scene4A_4.mp4](videos/small/Scene4A_4.mp4)
-![Scene4B_17.mp4](videos/small/Scene4B_17.mp4)
-![Scene5A_48.mp4](videos/small/Scene5A_48.mp4)
-![Scene5B_20.mp4](videos/small/Scene5B_20.mp4)
-![Scene6A_47.mp4](videos/small/Scene6A_47.mp4)
-![Scene6B_59.mp4](videos/small/Scene6B_59.mp4)
+![Scene1A_14.mp4](videos/small/Scene1A_14-thumb.png)
+![Scene1B_84.mp4](videos/small/Scene1B_84-thumb.png)
+![Scene2_22.mp4](videos/small/Scene2_22-thumb.png)
+![Scene3A_55.mp4](videos/small/Scene3A_55-thumb.png)
+![Scene4A_4.mp4](videos/small/Scene4A_4-thumb.png)
+![Scene4B_17.mp4](videos/small/Scene4B_17-thumb.png)
+![Scene5A_48.mp4](videos/small/Scene5A_48-thumb.png)
+![Scene5B_20.mp4](videos/small/Scene5B_20-thumb.png)
+![Scene6A_47.mp4](videos/small/Scene6A_47-thumb.png)
+![Scene6B_59.mp4](videos/small/Scene6B_59-thumb.png)
 
 
 Obtaining the Dataset
